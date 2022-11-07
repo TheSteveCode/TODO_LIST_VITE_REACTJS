@@ -1,0 +1,25 @@
+.TaskList-container {
+    padding: 40px;
+    display: flex;
+    color: white;
+    
+    
+}
+
+.TaskList-container ol {
+    margin: auto;
+
+}
+
+.TaskList-container ol li {
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+
+.TaskList-container ol li button{
+    padding: 10px;
+    margin-left: 5px;
+    border: none;
+
+}

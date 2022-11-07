@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: -moz-radial-gradient(rgba(50,50,50,0.5),blue);
+    background: -webkit-radial-gradient(rgba(50,50,50,0.5),blue);
+    background: radial-gradient(rgba(50,50,50,0.5),blue);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

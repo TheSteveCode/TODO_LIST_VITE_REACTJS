@@ -1,0 +1,11 @@
+.App .Header {
+    padding: 20px;
+    color: white;
+    text-align: center;
+    background-color: rgba(50, 50, 50, 0.5);
+
+}
+
+.App .Header h1 {
+    text-shadow: rgba(200, 50, 225, 0.9) -1px -10px 3px;
+}

@@ -1,0 +1,19 @@
+.search-section-button {
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+    width: 20%;
+    border: none;
+}
+
+.search-section-input {
+    padding: 20px;
+    width: 80%;
+    border: none;
+}
+
+.search-section {
+    display: flex;
+    padding: 0;
+
+}
